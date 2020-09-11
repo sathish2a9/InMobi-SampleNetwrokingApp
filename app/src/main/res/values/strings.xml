@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InMobiDemoProject</string>
+    <string name="time_taken">Time: %1$s ms</string>
+</resources>
